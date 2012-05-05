@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ssg7~source-code-repository/!svn/ver/2/SSG7/src/java/ss/classes/dao
+END
+PublicacaoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ssg7~source-code-repository/!svn/ver/17/SSG7/src/java/ss/classes/dao/PublicacaoDAO.java
+END
+SSDAOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ssg7~source-code-repository/!svn/ver/16/SSG7/src/java/ss/classes/dao/SSDAOException.java
+END
+UsuarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ssg7~source-code-repository/!svn/ver/16/SSG7/src/java/ss/classes/dao/UsuarioDAO.java
+END
+ConnectionSSFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ssg7~source-code-repository/!svn/ver/19/SSG7/src/java/ss/classes/dao/ConnectionSSFactory.java
+END

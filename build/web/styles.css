@@ -1,0 +1,17 @@
+/* External stylesheet*/
+body {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    visibility: visible;
+    color:#008000;
+}
+
+.imagem {
+    background-image: url('img/tubo_de_ensaio copy.jpg');
+    width:236px;
+    height:297px;
+    margin:auto;
+
+}
+.imagem:hover{
+    background-image: url('img/tubo_de_ensaio copy cor2.jpg');
+}

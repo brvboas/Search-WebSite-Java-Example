@@ -1,0 +1,33 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 42
+/svn/ssg7~source-code-repository/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ssg7~source-code-repository/!svn/ver/3/SSG7
+END
+mssqlserver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ssg7~source-code-repository/!svn/ver/2/SSG7/mssqlserver.jar
+END
+msbase.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ssg7~source-code-repository/!svn/ver/2/SSG7/msbase.jar
+END
+msutil.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ssg7~source-code-repository/!svn/ver/2/SSG7/msutil.jar
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ssg7~source-code-repository/!svn/ver/2/SSG7/build.xml
+END

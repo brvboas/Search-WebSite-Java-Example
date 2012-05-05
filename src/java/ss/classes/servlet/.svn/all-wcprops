@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ssg7~source-code-repository/!svn/ver/2/SSG7/src/java/ss/classes/servlet
+END
+registerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ssg7~source-code-repository/!svn/ver/16/SSG7/src/java/ss/classes/servlet/registerServlet.java
+END
+searchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ssg7~source-code-repository/!svn/ver/16/SSG7/src/java/ss/classes/servlet/searchServlet.java
+END
+loginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ssg7~source-code-repository/!svn/ver/16/SSG7/src/java/ss/classes/servlet/loginServlet.java
+END
+sendServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ssg7~source-code-repository/!svn/ver/16/SSG7/src/java/ss/classes/servlet/sendServlet.java
+END
